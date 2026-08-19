@@ -6,6 +6,7 @@ A collection of useful and reusable code snippets in different programming langu
 
 - [Loops in Python](loops.py)
 - [Recursion Example](recursion.py)
+- [Hello world](app.py)
 
 ## ☕ Java Snippets
 
